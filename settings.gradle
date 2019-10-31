@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='kuis1_mobile_1718133'
